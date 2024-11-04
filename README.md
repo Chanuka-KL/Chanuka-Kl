@@ -2,7 +2,7 @@
 
 
 
-![Welcome](https://i.pinimg.com/originals/07/25/65/07256543b7243633bd70f1b22237b8ba.gif)
+
 
 # Hey there! 👋 I'm **Chanuka** (Specter ch)
 

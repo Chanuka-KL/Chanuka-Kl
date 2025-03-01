@@ -6,7 +6,7 @@
 
 # Hey there! 👋 I'm **Chanuka** (Specter ch)
 
-I'm a **15-year-old student** from **Sri Lanka** aspiring to become an **ethical hacker**. 💻 I'm still learning, but my passion for **cybersecurity** is what drives me to explore the digital world. I love building tools, discovering vulnerabilities, and creating a safer internet.
+I'm a **16-year-old student** from **Sri Lanka** aspiring to become an **ethical hacker**. 💻 I'm still learning, but my passion for **cybersecurity** is what drives me to explore the digital world. I love building tools, discovering vulnerabilities, and creating a safer internet.
 
 
 

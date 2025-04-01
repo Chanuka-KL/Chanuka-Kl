@@ -1,3 +1,4 @@
+<html>
 <div align="center" style="background: linear-gradient(145deg, #0a0e17 0%, #1c2526 100%); padding: 25px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.7); border: 1px solid #00d4ff; animation: pulseGlow 2s infinite;">
   <h1 style="color: #00d4ff; font-family: 'Orbitron', sans-serif; font-size: 38px; letter-spacing: 3px; text-transform: uppercase;">Chanuka | Specter_CH</h1>
   <p style="color: #a3bffa; font-family: 'Roboto', sans-serif; font-size: 18px; margin: 5px 0; animation: fadeIn 1.5s ease-in;">16-Year-Old Cybersecurity Prodigy | Sri Lanka</p>
@@ -130,3 +131,4 @@
   <p style="color: #a3bffa; font-size: 12px;">Last Updated: April 01, 2025</p>
   <img src="https://komarev.com/ghpvc/?username=Chanuka-KL&color=00d4ff&style=flat-square" alt="Profile Views">
 </div>
+</html>
